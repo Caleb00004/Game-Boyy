@@ -3,7 +3,7 @@
 # About
 A web app that consist of 4 independent javascript and react Games.
 It was built to test my knowledge in comibining multiple javascrit components/apps into a single website.
-one of the Games was built with react CDN's. the Tenzies React.
+one of the Games was built with react CDN's. 'the Tenzies app'.
 
 It uses server side Rendering.
 
